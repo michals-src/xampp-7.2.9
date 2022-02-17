@@ -1,0 +1,260 @@
+/*
+Theme Name: Clean Fotografie
+Description: Used to style the TinyMCE editor.
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Body
+# Typography
+# Colors
+
+/*--------------------------------------------------------------
+# Body
+--------------------------------------------------------------*/
+
+body {
+	font-family: 'Source Serif Pro', serif;
+	font-weight: normal;
+  font-size: 16px;
+  font-size: 1rem;
+  max-width: 1000px;
+  width: 96%;
+  margin: 20px auto;
+}
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6,
+button,
+.button,
+.more-link {
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: normal;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+}
+
+h1,
+.mce-content-body h1 {
+  font-size: 64px;
+  font-size: 4rem;
+  line-height: 1.46;
+}
+
+h2,
+.mce-content-body h2 {
+  font-size: 48px;
+  font-size: 3rem;
+  line-height: 1.46;
+}
+
+h3,
+.mce-content-body h3 {
+  font-size: 36px;
+  font-size: 2.25rem;
+  line-height: 1.46;
+}
+
+h4,
+.mce-content-body h4 {
+  font-size: 32px;
+  font-size: 2rem;
+  line-height: 1.46;
+}
+
+h5,
+.mce-content-body h5 {
+  font-size: 26px;
+  font-size: 1.625rem;
+  line-height: 1.46;
+}
+
+h6,
+.mce-content-body h6 {
+  font-size: 18px;
+  font-size: 1.125rem;
+  line-height: 1.46;
+}
+
+.button,
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.more-link {
+  letter-spacing: 0.25em;
+}
+
+.button,
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+blockquote cite {
+  font-size: 13px;
+  font-size: 0.8125rem;
+  line-height: 1.615;
+}
+
+blockquote {
+  font-style: normal;
+  margin: 28px 0;
+  padding: 35px;
+  position: relative;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6,p {
+  margin-bottom: 28px;
+}
+
+.drop-cap:first-letter {
+    font-size: 58px;
+    font-size: 3.625rem;
+    margin-left: 0;
+    padding: 14px;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-width: 1px 0 0 1px;
+  table-layout: fixed;
+  /* Prevents HTML tables from becoming too wide */
+  width: 100%;
+}
+
+table caption {
+  border: none;
+  font-weight: bold;
+  letter-spacing: 0.10em;
+}
+
+caption,
+th,
+td {
+  font-weight: normal;
+  text-align: left;
+}
+
+th {
+  border-width: 0 1px 1px 0;
+  font-weight: 700;
+}
+
+td {
+  border-width: 0 1px 1px 0;
+}
+
+th,
+td {
+  padding: 1em;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+}
+
+/*--------------------------------------------------------------
+# Colors
+--------------------------------------------------------------*/
+
+/* Link Color */
+a {
+    color: #383838;
+}
+
+/* Heading Color */
+h1, h2, h3, h4, h5, h6,
+b, strong,
+table caption,
+th,
+blockquote,
+.more-link {
+  color: #383838;
+}
+
+/* Main Text Color */
+body,
+button,
+input,
+select,
+textarea {
+  color: #828282;
+}
+
+a:hover, a:focus, a:active,
+.more-link:hover,
+.more-link:focus,
+input[type="search"].search-field {
+    color: #828282;
+}
+
+/* Main Text 0.25 */
+input[type="search"].search-field {
+  border-color: rgba(130, 130, 130, 0.25);
+}
+
+/* Border Color */
+select,
+table,
+th,
+td {
+  border-color: #f7f7f7;
+}
+
+table caption,
+.drop-cap:first-letter,
+blockquote,
+pre,
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea,
+select {
+  background-color: #f7f7f7;
+}
+
+/* Button Background Color */
+.button,
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    background-color: #383838;
+    color: #fff;
+}
+
+/* Button Hover Background Color */
+.button:hover,
+.button:focus,
+button:hover,
+button:focus,
+input[type="button"]:hover,
+input[type="button"]:focus,
+input[type="reset"]:hover,
+input[type="reset"]:focus,
+input[type="submit"]:hover,
+input[type="submit"]:focus {
+  background-color: #828282;
+  color: #fff;
+}

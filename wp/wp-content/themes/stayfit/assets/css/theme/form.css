@@ -1,0 +1,188 @@
+input, select{
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+-webkit-::placeholder{ color: #adadad9e; }
+::placeholder{ color: #adadad9e; }
+
+.form-group{
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+  .form-group label {
+    font-weight: normal;
+    font-weight: 400;
+    color: #333;
+    letter-spacing: 0.5px;
+    font-size: 14px;
+    margin: 8px 15px 4px 15px;
+  }
+  .form-group input[type="text"], 
+  .form-group input[type="password"], 
+  .form-group input[type="number"],
+  .form-group input[type="time"],
+  .form-group input[type="date"],
+  .form-group select,
+  .form-group textarea {
+    border-radius: 3px;
+    padding: 11px 18px;
+    border: 1px solid #b1c3d29e;
+    outline: none;
+    width: 100%;
+    color: #26445d;
+    font-size: 14px;
+    -webkit-transition: border .15s ease-in-out, box-shadow .2s ease-in-out;
+    -moz-transition: border .15s ease-in-out, box-shadow .2s ease-in-out;
+    -ms-transition: border .15s ease-in-out, box-shadow .2s ease-in-out;
+    transition: border .15s ease-in-out, box-shadow .2s ease-in-out;
+  }
+    .form-group textarea{
+      min-width: 100%;
+      max-width: 100%;
+    }
+
+    .form-group input[type="text"]:active, 
+    .form-group input[type="text"]:focus, 
+    .form-group input[type="password"]:active, 
+    .form-group input[type="password"]:focus, 
+    .form-group input[type="number"]:active,
+    .form-group input[type="number"]:focus,
+    .form-group input[type="time"]:active,
+    .form-group input[type="time"]:focus,
+    .form-group input[type="date"]:active,
+    .form-group input[type="date"]:focus,
+    .form-group select:active,
+    .form-group select:focus,
+    .form-group textarea:active,
+    .form-group textarea:focus{
+      box-shadow: 0 0 0 4px rgba(35, 179, 222, 0.25);
+      border-color: #5fc3de;
+    }
+
+  .form-group .form-input-label {
+    font-size: 14px;
+    color: #aaa;
+    margin: 10px 10px 15px 10px;
+  }
+
+  .form-group.form-group-has-error label,
+  .form-group.form-group-has-error .form-input-label{
+    color: #921414;
+  }
+
+  .form-group.form-group-has-error input[type="text"], 
+  .form-group.form-group-has-error input[type="password"], 
+  .form-group.form-group-has-error input[type="number"],
+  .form-group.form-group-has-error input[type="time"],
+  .form-group.form-group-has-error input[type="date"],
+  .form-group.form-group-has-error select,
+  .form-group.form-group-has-error textarea{
+    border-color: #ff5151;
+    color: #4e0b0b;
+  }
+    
+    .form-group.form-group-has-error input[type="text"]:active, 
+    .form-group.form-group-has-error input[type="text"]:focus, 
+    .form-group.form-group-has-error input[type="password"]:active, 
+    .form-group.form-group-has-error input[type="password"]:focus, 
+    .form-group.form-group-has-error input[type="number"]:active,
+    .form-group.form-group-has-error input[type="number"]:focus, 
+    .form-group.form-group-has-error input[type="time"]:active,
+    .form-group.form-group-has-error input[type="time"]:focus, 
+    .form-group.form-group-has-error input[type="date"]:active,
+    .form-group.form-group-has-error input[type="date"]:focus,
+    .form-group.form-group-has-error select:active,
+    .form-group.form-group-has-error select:focus,
+    .form-group.form-group-has-error textarea:active,
+    .form-group.form-group-has-error textarea:focus{
+      box-shadow: 0 0 0 4px rgba(222, 35, 35, 0.25);
+    }
+
+.form-check{
+  position: relative;
+  display: block;
+}
+
+.form-check .form-check-input{
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}
+
+.form-check .form-check-label{
+  padding-left: 25px;
+  letter-spacing: .25px;
+  position: relative;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: bold;
+  font-weight: 700;
+  color: #aaa;
+  cursor: pointer;
+}
+  .form-check input[type="checkbox"].form-check-input~.form-check-label::before,
+  .form-check input[type="radio"].form-check-input~.form-check-label::before{
+    content:"";
+    position: absolute;
+    left: -2px;
+    bottom: 5px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  .form-check input[type="checkbox"].form-check-input~.form-check-label::before{
+    width: 15px;
+    height: 15px;
+    border-radius: 4px;
+    background: #eee;
+    border: none;
+  }
+    .form-check input[type="checkbox"].form-check-input:checked~.form-check-label::before{
+      background-color: #4194ff;
+    }
+  .form-check input[type="radio"].form-check-input~.form-check-label::before{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #eee;
+    border: 4px solid #eee;
+  }
+    .form-check input[type="radio"].form-check-input:checked~.form-check-label::before{
+      border-color: #4194ff;
+    }
+.form-check .form-check-label .form-checkmark{
+    width: 10px;
+    height: 5px;
+    display: block;
+    position: absolute;
+    bottom: 10px;
+    left: 1px;
+    opacity: 0;
+}
+  .form-check .form-check-input:checked~.form-check-label .form-checkmark{
+    opacity: 1;
+  }
+  .form-check .form-check-label .form-checkmark::before{
+    content: "";
+    width: 4px;
+    height: 2px;
+    position: absolute;
+    left: 1px;
+    bottom: 0;
+    transform: rotate(35deg);
+    background: #fff;
+  }
+  .form-check .form-check-label .form-checkmark::after{
+    content: "";
+    width: 6px;
+    height: 2px;
+    position: absolute;
+    left: 2px;
+    bottom: 1px;
+    transform: rotate(-55deg);
+    background: #fff;
+  }

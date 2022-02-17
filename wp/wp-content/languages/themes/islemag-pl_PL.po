@@ -1,0 +1,982 @@
+# Translation of Themes - IsleMag in Polish
+# This file is distributed under the same license as the Themes - IsleMag package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-16 12:24:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - IsleMag\n"
+
+#. Description of the plugin/theme
+msgid "A modern and clean free WordPress theme for tech magazines, news and newspaper media websites, personal fashion blogs, or photography, IsleMag is responsive, flat, minimalist, SEO friendly, Retina ready, built with Bootstrap, and has social links. Released in 2016, the theme has Google AdSense banners, a magazine homepage template, custom backgrounds, filtered categories, tags, boxed layout, and live customizer. IsleMag is WPML, Photo Gallery Grid,Contact Form 7,WP Product Review, SiteOrigin Page Builder, JetPack compatible, the theme is highly customizable and translation ready."
+msgstr "Nowoczesny i czysty bezpłatny szablon WordPress dla tech-magazynów, gazet, stron multimedialnych, stron internetowych, blogów modowych osobistych lub fotograficznych. IsleMag jest responsywny, płaski, minimalistyczny, przyjazny SEO, kompatybilny z Retina, zbudowany z Bootstrap i posiadający linki społeczne. Wydany w 2016 roku, współpracuje z banerami Google AdSense, posiada niestandardowe tła, filtrowane kategorie, tagi, boxed layout, and live customizer. IsleMag jest kompatybilny z WPML, Photo Gallery Grid,Contact Form 7,WP Product Review, SiteOrigin Page Builder, JetPack. Szablon jest wysoce konfigurowalny i gotowy na tłumaczenia."
+
+#. Theme Name of the plugin/theme
+msgid "IsleMag"
+msgstr "IsleMag"
+
+#: inc/admin/welcome-screen/welcome-screen.php:202
+msgid "Changelog"
+msgstr "Dziennik zmian"
+
+#: inc/admin/welcome-screen/welcome-screen.php:201
+msgid "Contribute"
+msgstr "Współpraca"
+
+#: inc/admin/welcome-screen/welcome-screen.php:200
+msgid "Actions required"
+msgstr "Działania wymagane"
+
+#: inc/admin/welcome-screen/welcome-screen.php:65
+msgid "Get started with %s"
+msgstr "Zacznij korzystać z %s"
+
+#: inc/admin/welcome-screen/welcome-screen.php:64
+msgid "Welcome! Thank you for choosing %s! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Witamy! Dziękujemy za wybranie %s! Aby w pełni skorzystać z najlepszego naszego szablonu odwiedź naszą %swelcome page%s."
+
+#: inc/admin/welcome-screen/sections/github.php:38
+msgid "Rate our theme on %sWordPress.org%s. We'd really appreciate it!"
+msgstr "Oceń szablon na %sWordPress.org%s. Naprawdę doceniamy to!"
+
+#: inc/admin/welcome-screen/sections/github.php:36
+msgid "Are you enjoying %s?"
+msgstr "Czy podoba Ci się %s?"
+
+#: inc/admin/welcome-screen/sections/github.php:27
+msgid "Get involved at WordPress.org."
+msgstr "Zaangażuj się w WordPress.org."
+
+#: inc/admin/welcome-screen/sections/github.php:25
+msgid "Are you a polyglot? Want to translate %s into your own language?"
+msgstr "Czy jesteś poliglotą? Chcesz przetłumaczyć %s na swój język?"
+
+#: inc/admin/welcome-screen/sections/github.php:19
+msgid "%s on GitHub"
+msgstr "%s na GitHub"
+
+#: inc/admin/welcome-screen/sections/github.php:16
+msgid "GitHub is the place to go!"
+msgstr "GitHub jest to miejsce warte odwiedzenia!"
+
+#: inc/admin/welcome-screen/sections/github.php:14
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Znalazłeś błąd? Chcesz przyczynić się do rozwoju, naprawić lub utworzyć nową funkcję?"
+
+#: inc/admin/welcome-screen/sections/github.php:9
+msgid "How can I contribute?"
+msgstr "Jak mogę pomóc?"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:233
+msgid "Install Revive Old Post"
+msgstr "Instalacja Revive Old Post"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:223
+msgid "A plugin to share about your old posts on twitter, facebook, linkedin to get more hits for them and keep them alive."
+msgstr "Wtyczka do dzielenia się swoimi starymi postami na Twitterze, Facebooku, LinkedIn, aby uzyskać więcej trafień dla nich i zachować je przy życiu."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:222
+msgid "Revive Old Post"
+msgstr "Revive Old Post"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:213
+msgid "Download Easy Content Types"
+msgstr "Pobierz Easy Content Types"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:203
+msgid "Custom Post Types, Taxonomies and Metaboxes in Minutes"
+msgstr "Niestandardowe Typy Wpisów, Taksonomia i Metaboksy w Minutę"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:202
+msgid "Easy Content Types"
+msgstr "Easy Content Types"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:193
+msgid "Install Visualizer"
+msgstr "Instalacja Visualizer"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:183
+msgid "A simple, easy to use and quite powerful chart tool to create, manage and embed interactive charts into your WordPress posts and pages."
+msgstr "Proste, łatwe w obsłudze i bardzo wydajne narzędzie wykresów, dzięki któremu możesz tworzyć, zarządzać i osadzić interaktywne wykresy w swoich postach i stronach WordPress."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:182
+msgid "Visualizer: Charts and Graphs"
+msgstr "Visualizer: Charts and Graphs"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:171
+#: inc/admin/welcome-screen/sections/getting-started.php:252
+msgid "Install"
+msgstr "Instalacja"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:152
+msgid "Install Custom Login Customizer"
+msgstr "Instalacja Custom Login Customizer"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:142
+msgid "Login Customizer plugin allows you to easily customize your login page straight from your WordPress Customizer! You can preview your changes before you save them!"
+msgstr "Wtyczka Login Customizer pozwala łatwo dostosować stronę logowania bezpośrednio z WordPress Customizera! Można wyświetlić podgląd zmian przed ich zapisaniem!"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:141
+msgid "Custom Login Customizer"
+msgstr "Custom Login Customizer"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:131
+msgid "Install WP Product Review"
+msgstr "Instalacja WP Product Review"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:121
+msgid "Easily turn your basic posts into in-depth reviews with ratings, pros and cons, affiliate links, rich snippets and user reviews."
+msgstr "Łatwo przekształć swoje podstawowe wiadomości do pogłębionych opinii z ocenami, linków partnerskich, sformatowanych fragmentów i opinii użytkowników."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:120
+msgid "WP Product Review"
+msgstr "WP Product Review"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:110
+msgid "Install Page Builder by SiteOrigin"
+msgstr "Instalacja Page Builder by SiteOrigin"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:104
+#: inc/admin/welcome-screen/sections/getting-started.php:125
+#: inc/admin/welcome-screen/sections/getting-started.php:146
+#: inc/admin/welcome-screen/sections/getting-started.php:165
+#: inc/admin/welcome-screen/sections/getting-started.php:187
+#: inc/admin/welcome-screen/sections/getting-started.php:207
+#: inc/admin/welcome-screen/sections/getting-started.php:227
+#: inc/admin/welcome-screen/sections/getting-started.php:246
+msgid "Already activated"
+msgstr "Już aktywowane"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:100
+msgid "Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder."
+msgstr "Budowanie responsywnych układów stron z wykorzystaniem widgetów, które znasz i kochasz, za pomocą tego prostego kreatora przeciągnij i upuść."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:99
+msgid "Page Builder by SiteOrigin"
+msgstr "Page Builder by SiteOrigin"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:93
+msgid "Recommended plugins"
+msgstr "Rekomendowane wtyczki"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:86
+msgid "Read full documentation"
+msgstr "Czytaj pełną dokumentację"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:85
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "Potrzebujesz więcej szczegółów? Proszę sprawdzić pełną dokumentację w celu uzyskania szczegółowych informacji na temat korzystania z %s."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:84
+msgid "View full documentation"
+msgstr "Zobacz pełną dokumentację"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:70
+msgid "Read more"
+msgstr "Czytaj więcej"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:69
+msgid " At the address below you will find a cool set of original WordPress plugins that can give you great benefits despite being a little lesser known out there."
+msgstr "Pod poniższym adresem znajdziesz fajny zestaw oryginalnych wtyczek WordPress, które mogą dać Ci wiele korzyści, mimo że są trochę mniej znane."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:68
+msgid "30 Experts Share: The Top *Non-Obvious* WordPress Plugins That'll Make You a Better Blogger"
+msgstr "30 Eksperckich Rozwiązań: Top *Nieoczywistych* Wtyczek WordPress, Które Pomogą Ci Stać się Lepszym Blogerem"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:63
+msgid "If you find yourself in the situation where everything on your site is running very slow, you might consider having a look at the below documentation where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Jeśli znajdziesz się w sytuacji, w której strona będzie działać bardzo wolno, możesz zapoznać się z poniższą dokumentacją, gdzie znajdziesz opis najbardziej typowych problemów i możliwych rozwiązań dla każdego z tych zagadnień."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:62
+msgid "Speed up your site"
+msgstr "Przyspiesz swoją stronę"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:55
+msgid "In the below documentation you will find an easy way to translate %s into your native language or any other language you need for you site."
+msgstr "W poniższej dokumentacji można znaleźć informacje jak w prosty sposób przetłumaczyć elementy szablonu %s na swój lub jakikolwiek inny język."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:54
+#: inc/admin/welcome-screen/sections/github.php:30
+msgid "Translate %s"
+msgstr "Tłumaczenie %s"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:49
+msgid "In the below documentation you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "W poniższej dokumentacji znajdziesz informację jak w łatwy sposób zbudować świetny wygląd strony lądowania za pomocą kreatora drag-and-drop."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:48
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "Zbuduj stronę lądowania z kreatorem drag-and-drop"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:44
+#: inc/admin/welcome-screen/sections/getting-started.php:50
+#: inc/admin/welcome-screen/sections/getting-started.php:56
+#: inc/admin/welcome-screen/sections/getting-started.php:64
+#: inc/admin/welcome-screen/sections/getting-started.php:74
+msgid "View how to do this"
+msgstr "Zobacz, jak to zrobić"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:43
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Jeśli chcesz dokonać zmian w plikach motywu, te zmiany mogą być nadpisane przy następnej aktualizacji szablonu. W celu uniknięcia takiego skutku, trzeba utworzyć motyw potomny. W tym celu należy postępować zgodnie z poniższą dokumentacją."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:42
+msgid "Create a child theme"
+msgstr "Stwórz motyw potomny"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:36
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:28
+msgid "Go to Customizer"
+msgstr "Przejdź do Customizera"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:27
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Korzystając z WordPress Customizer można łatwo dostosować każdy aspekt tematu."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:26
+msgid "Customize everything in a single place."
+msgstr "Dostosuj wszystko w jednym miejscu."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:24
+#: inc/admin/welcome-screen/welcome-screen.php:199
+msgid "Getting started"
+msgstr "Pierwsze kroki"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:16
+msgid "We want to make sure you have the best experience using %s and that is why we gathered here all the necessary informations for you. We hope you will enjoy using %s, as much as we enjoy creating great products."
+msgstr "Chcemy upewnić się, że masz najlepsze doświadczenia przy użyciu %s , dlatego zebraliśmy tutaj wszystkie niezbędne informacje. Mamy nadzieję, że będziesz zadowolony z używania %s tak, jak my możemy cieszyć się z tworzenia świetnych produktów."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:15
+msgid "Our best free one page magazine WordPress theme, %s!"
+msgstr "Nasz najlepszy jednostronny szablon magazynu dla WordPress, %s!"
+
+#: inc/admin/welcome-screen/sections/actions-required.php:60
+#: inc/admin/welcome-screen/welcome-screen.php:103
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Brawo! Brak działań niezbędnych na tę chwilę."
+
+#: inc/admin/welcome-screen/sections/actions-required.php:9
+msgid "Keep up with %s's latest news"
+msgstr "Bądź na bieżąco z %s najnowszymi newsami"
+
+#: functions.php:140
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "Przełącz \"Front page displays\" na \"Static page\""
+
+#: functions.php:141
+msgid "In order to have the one page look for your website, please go to Customize -> Static Front Page and switch \"Front page displays\" to \"A static page\". Then select the template \"Frontpage\" for that selected page."
+msgstr "Aby uzyskać wygląd jednej strony, przejdź do Personalizacja -> Static Front Page i przełącz \"Front Page\" na \"Statyczna strona\". Następnie należy wybrać szablon \"Fronypage\" dla tej wybranej strony."
+
+#: sidebar.php:34
+msgid "Banner Widget Example"
+msgstr "Przykładowy Banner Widget"
+
+#: sidebar.php:20
+msgid "Example Widget"
+msgstr "Przykładowy Widget"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Pełna Szerokość"
+
+#: template-parts/content.php:90
+msgid "about "
+msgstr "o "
+
+#. translators: About title of the post
+#: template-parts/content.php:90
+msgid "Read more %s ..."
+msgstr "Czytaj więcej %s ..."
+
+#: template-parts/content-template2.php:73
+#: template-parts/content-template3.php:141
+#: template-parts/content-template3.php:199
+#: template-parts/content-template3.php:255
+#: template-parts/content-template4.php:77
+#: template-parts/content-template4.php:133
+msgid "Posted By"
+msgstr "Wysłane przez"
+
+#: template-parts/content-template1.php:70
+#: template-parts/content-template2.php:59
+#: template-parts/content-template3.php:77
+#: template-parts/content-template3.php:128
+#: template-parts/content-template3.php:186
+#: template-parts/content-template3.php:242
+#: template-parts/content-template4.php:64
+#: template-parts/content-template4.php:120
+msgid "Rating:"
+msgstr "Ocena:"
+
+#: template-parts/content-single.php:236
+msgid "Read More"
+msgstr "Czytaj Więcej"
+
+#: template-parts/content-single.php:221
+msgid "Show more categories"
+msgstr "Pokaż więcej kategorii"
+
+#: template-parts/content-single.php:135
+msgid "Related Posts"
+msgstr "Wpisy Powiązane"
+
+#: template-parts/content-single.php:113
+msgid "by"
+msgstr "przez"
+
+#: template-parts/content-single.php:111
+msgid "% Responses"
+msgstr "% Odpowiedzi"
+
+#: template-parts/content-single.php:111
+msgid "One Response"
+msgstr "Jedna odpowiedź"
+
+#: template-parts/content-single.php:111
+msgid "No Responses"
+msgstr "Bez odpowiedzi"
+
+#: template-parts/content-single.php:95
+msgid "Categories:"
+msgstr "Kategorie:"
+
+#: template-parts/content-page.php:21 template-parts/content-search.php:82
+#: template-parts/content-single.php:84 template-parts/content.php:97
+msgid "Pages:"
+msgstr "Strony:"
+
+#: template-parts/content-none.php:40
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Wydaje się, że nie możemy znaleźć tego, czego szukasz. Być może pomoże wyszukiwanie."
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Przykro nam, ale nie znaleziono żadnego z Twoich haseł. Spróbuj ponownie używając różnych słów kluczowych."
+
+#. translators: Add new post link
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gotowy na publikację pierwszego wpisu? <a href=\"%1$s\">Zacznij tutaj</a>."
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Niczego nie znaleziono"
+
+#: functions.php:729
+msgid "Ads Area 5"
+msgstr "Obszar reklam 5"
+
+#: functions.php:724
+msgid "Ads Area 4"
+msgstr "Obszar reklam 4"
+
+#: functions.php:718
+msgid "Ads Area 3"
+msgstr "Obszar reklam 3"
+
+#: functions.php:713
+msgid "Ads Area 2"
+msgstr "Obszar reklam 2"
+
+#: functions.php:708
+msgid "Ads Area 1"
+msgstr "Obszar reklam 1"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search in here..."
+msgstr "Szukaj tutaj..."
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Szukaj:"
+
+#. translators: Search query
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:77 template-parts/content-page.php:32
+msgid "Edit %s"
+msgstr "Edycja %s"
+
+#: inc/template-tags.php:69
+msgid "% Comments"
+msgstr "% Komentarzy"
+
+#: inc/template-tags.php:69
+msgid "Comment"
+msgstr "Komentarz"
+
+#: inc/template-tags.php:69
+msgid "Leave a comment"
+msgstr "Zostaw komentarz"
+
+#. translators: tags list
+#: inc/template-tags.php:63
+msgid "Tagged: %1$s"
+msgstr "Otagowany: %1$s"
+
+#. translators: Categories list
+#: inc/template-tags.php:56
+msgid "Posted in: %1$s"
+msgstr "Opublikowany w: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53 inc/template-tags.php:60
+msgid ", "
+msgstr ", "
+
+#. translators: Author link
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr "przez %s"
+
+#. translators: Posted date
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Wysłany dnia %s"
+
+#: inc/customizer.php:469
+msgid "Socials title"
+msgstr "Tytuł społecznościowych"
+
+#: inc/customizer.php:463
+msgid "Footer content"
+msgstr "Treść stopki"
+
+#: inc/customizer.php:461
+msgid "Allowed HTML tags: <p>, <br>, <em>, <strong>, <ul>, <li>, <a>, <button>, <address>, <abbr>"
+msgstr "Dozwolone tagi HTML: <p>, <br>, <em>, <strong>, <ul>, <li>, <a>, <button>, <address>, <abbr>"
+
+#: inc/customizer.php:455
+msgid "If not set, the footer logo will point to homepage url."
+msgstr "Jeśli nie jest ustawiony, logo stopki będzie wskazywać na URL głównej."
+
+#: inc/customizer.php:454
+msgid "Footer logo link"
+msgstr "Link logo stopki"
+
+#: inc/customizer.php:448
+msgid "Footer logo"
+msgstr "Logo stopki"
+
+#: inc/customizer.php:442
+msgid "If you check this box, the thumbnail will disappear from single page."
+msgstr "Jeśli zaznaczysz to pole, miniatury znikną z pojedynczej strony."
+
+#: inc/customizer.php:441
+msgid "Hide post thumbnail on single page?"
+msgstr "Ukryć miniatury wpisów na pojedynczej stronie?"
+
+#: inc/customizer.php:434
+msgid "If you check this box, related posts will disappear from single page."
+msgstr "Jeśli zaznaczysz to pole, powiązane posty znikną z pojedynczej strony."
+
+#: inc/customizer.php:433
+msgid "Hide related posts?"
+msgstr "Ukryć wpisy powiązane?"
+
+#: inc/customizer.php:426
+msgid "If you check this box, the author's description will disappear from single page."
+msgstr "Jeśli zaznaczysz to pole, opis autora zniknie z pojedynczej strony."
+
+#: inc/customizer.php:425
+msgid "Hide author's description?"
+msgstr "Ukryć opis autora?"
+
+#: inc/customizer.php:411
+msgid "Number of posts in each slide"
+msgstr "Liczba wpisów w każdym slajdzie"
+
+#: inc/customizer.php:380
+msgid "If you check this box and you have a sidebar, the section will be displayed after the sidebar"
+msgstr "Jeśli zaznaczysz to pole i masz pasek boczny, sekcja zostanie wyświetlona po sidebarze"
+
+#: inc/customizer.php:379
+msgid "Full width section"
+msgstr "Pełna szerokość sekcji"
+
+#: inc/customizer.php:359 inc/customizer.php:399
+msgid "To display all posts, set this field to -1."
+msgstr "Ustaw -1, aby wyświetlać wszystkie wpisy."
+
+#: inc/customizer.php:358 inc/customizer.php:398
+msgid "Number of posts in this section"
+msgstr "Ilość wpisów w tej sekcji"
+
+#: inc/customizer.php:352 inc/customizer.php:392
+#: template-parts/content-template3.php:40
+#: template-parts/content-template3.php:104
+#: template-parts/content-template3.php:161
+#: template-parts/content-template3.php:217
+#: template-parts/content-template4.php:39
+#: template-parts/content-template4.php:95
+msgid "Category"
+msgstr "Kategoria"
+
+#: inc/customizer.php:339
+msgid "Disable sticky menu"
+msgstr "Wyłącz przyklejane menu"
+
+#: inc/customizer.php:330 inc/customizer.php:475
+msgid "Add new social icon"
+msgstr "Dodaj ikonę społeczną"
+
+#: inc/customizer.php:324
+msgid "Section's posts text color"
+msgstr "Kolor tekstu sekcji wpisów"
+
+#: inc/customizer.php:318
+msgid "Section's posts title color"
+msgstr "Kolor tytułu sekcji wpisów"
+
+#: inc/customizer.php:312
+msgid "Top slider's posts text color"
+msgstr "Kolor tekstu wpisu górnego slidera"
+
+#: inc/customizer.php:306
+msgid "Top slider's posts title color"
+msgstr "Kolor tytułu wpisu górnego slidera"
+
+#: inc/customizer.php:300
+msgid "Title color"
+msgstr "Kolor tytułu"
+
+#: inc/customizer.php:128
+msgid "Single post settings"
+msgstr "Ustawienia pojedynczego wpisu"
+
+#: functions.php:728 inc/customizer.php:122 inc/customizer.php:220
+msgid "Section 5"
+msgstr "Sekcja 5"
+
+#: functions.php:723 inc/customizer.php:116 inc/customizer.php:212
+msgid "Section 4"
+msgstr "Sekcja 4"
+
+#: functions.php:717 inc/customizer.php:110 inc/customizer.php:209
+msgid "Section 3"
+msgstr "Sekcja 3"
+
+#: functions.php:712 inc/customizer.php:104 inc/customizer.php:206
+msgid "Section 2"
+msgstr "Sekcja 2"
+
+#: functions.php:707 inc/customizer.php:98 inc/customizer.php:203
+msgid "Section 1"
+msgstr "Sekcja 1"
+
+#: inc/customizer.php:92
+msgid "Header slider"
+msgstr "Slider nagłówka"
+
+#: inc/customizer.php:86
+msgid "Islemag header content"
+msgstr "Treść nagłówka Islemag"
+
+#: inc/customizer.php:85
+msgid "Header content"
+msgstr "Treść nagłówka"
+
+#: inc/customizer.php:79
+msgid "Header top bar"
+msgstr "Górny pasek nagłówka"
+
+#: inc/customizer.php:70
+msgid "Frontpage sections"
+msgstr "Sekcja głównej"
+
+#: inc/customizer.php:64
+msgid "Header"
+msgstr "Nagłówek"
+
+#: inc/customizer.php:19
+msgid "Text color"
+msgstr "Kolor tekstu"
+
+#: inc/class/islemag-widget-multiple-ads.php:150
+msgid "Recommended size: 125 x 125 px"
+msgstr "Rekomendowany rozmiar: 125 x 125 px"
+
+#: inc/class/islemag-widget-content-ad.php:156
+msgid "234 x 60 px"
+msgstr "234 x 60 px"
+
+#: inc/class/islemag-widget-content-ad.php:155
+msgid "468 x 60 px"
+msgstr "468 x 60 px"
+
+#: inc/class/islemag-widget-content-ad.php:153
+msgid "728 x 90 px"
+msgstr "728 x 90 px"
+
+#: inc/class/islemag-widget-big-ad.php:206
+#: inc/class/islemag-widget-content-ad.php:185
+#: inc/class/islemag-widget-multiple-ads.php:197
+msgid "Code:"
+msgstr "Kod:"
+
+#: inc/class/islemag-widget-big-ad.php:199
+#: inc/class/islemag-widget-content-ad.php:178
+#: inc/class/islemag-widget-multiple-ads.php:190
+msgid "Image:"
+msgstr "Obraz:"
+
+#: inc/class/islemag-widget-big-ad.php:193
+#: inc/class/islemag-widget-content-ad.php:172
+msgid "Open in new tab"
+msgstr "Otwórz w nowej zakładce"
+
+#: inc/class/islemag-widget-big-ad.php:177
+#: inc/class/islemag-widget-multiple-ads.php:173
+msgid "Alt Title"
+msgstr "Tytuł Alt"
+
+#: inc/class/islemag-widget-big-ad.php:172
+msgid "250 x 250 px"
+msgstr "250 x 250 px"
+
+#: inc/class/islemag-widget-big-ad.php:171
+msgid "300 x 600 px"
+msgstr "300 x 600 px"
+
+#: inc/class/islemag-widget-big-ad.php:170
+#: inc/class/islemag-widget-content-ad.php:154
+msgid "300 x 100 px"
+msgstr "300 x 100 px"
+
+#: inc/class/islemag-widget-big-ad.php:169
+msgid "300 x 250 px"
+msgstr "300 x 250 px"
+
+#: inc/class/islemag-widget-big-ad.php:168
+#: inc/class/islemag-widget-content-ad.php:152
+msgid "Recommended sizes:"
+msgstr "Rekomendowany rozmiar:"
+
+#: inc/class/islemag-widget-big-ad.php:164
+#: inc/class/islemag-widget-content-ad.php:148
+#: inc/class/islemag-widget-multiple-ads.php:167
+msgid "Advertisement "
+msgstr "Reklama"
+
+#: inc/class/islemag-widget-big-ad.php:153
+#: inc/class/islemag-widget-multiple-ads.php:146 inc/customizer.php:386
+msgid "Title"
+msgstr "Tytuł"
+
+#: inc/customizer-repeater/islemag-general-control.php:125
+msgid "Add new field"
+msgstr "Dodaj nowe pole"
+
+#: inc/customizer-repeater/islemag-general-control.php:186
+#: inc/customizer-repeater/islemag-general-control.php:214
+msgid "Delete field"
+msgstr "Usuń pole"
+
+#: inc/customizer-repeater/islemag-general-control.php:245
+msgid "Icon"
+msgstr "Ikona"
+
+#: inc/class/islemag-category-selector.php:37
+msgid "All"
+msgstr "Wszystko"
+
+#: inc/class/islemag-banner-control.php:85
+#: inc/class/islemag-banner-control.php:91
+msgid "Recomanded size: 728px x 90px"
+msgstr "Rekomendowany rozmiar: 728px x 90px"
+
+#: inc/class/islemag-banner-control.php:64
+#: inc/class/islemag-banner-control.php:65
+#: inc/class/islemag-banner-control.php:95
+#: inc/class/islemag-banner-control.php:96
+#: inc/class/islemag-widget-big-ad.php:195
+#: inc/class/islemag-widget-content-ad.php:174
+#: inc/class/islemag-widget-multiple-ads.php:186
+#: inc/customizer-repeater/islemag-general-control.php:174
+#: inc/customizer-repeater/islemag-general-control.php:208
+msgid "Link"
+msgstr "Link"
+
+#: inc/class/islemag-banner-control.php:62
+#: inc/class/islemag-banner-control.php:93
+msgid "Upload Image"
+msgstr "Wgraj Obraz"
+
+#: inc/class/islemag-banner-control.php:55
+#: inc/class/islemag-banner-control.php:86
+#: inc/class/islemag-widget-big-ad.php:207
+#: inc/class/islemag-widget-content-ad.php:186
+#: inc/class/islemag-widget-multiple-ads.php:198
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/class/islemag-banner-control.php:54
+#: inc/class/islemag-banner-control.php:60
+msgid "Recommended size: 728px x 90px"
+msgstr "Rekomendowany rozmiar: 728px x 90px"
+
+#: inc/class/islemag-banner-control.php:53
+#: inc/class/islemag-banner-control.php:84
+msgid "Banner Code"
+msgstr "Kod Banera"
+
+#: inc/class/islemag-banner-control.php:50
+#: inc/class/islemag-banner-control.php:81
+msgid "Right"
+msgstr "Prawa"
+
+#: inc/class/islemag-banner-control.php:49
+#: inc/class/islemag-banner-control.php:80
+msgid "Center"
+msgstr "Środek"
+
+#: inc/class/islemag-banner-control.php:48
+#: inc/class/islemag-banner-control.php:79
+msgid "Left"
+msgstr "Lewa"
+
+#: inc/class/islemag-banner-control.php:47
+#: inc/class/islemag-banner-control.php:78
+msgid "Banner position"
+msgstr "Pozycja banera"
+
+#: inc/class/islemag-banner-control.php:45
+#: inc/class/islemag-banner-control.php:76
+#: inc/class/islemag-widget-big-ad.php:186
+#: inc/class/islemag-widget-content-ad.php:165
+#: inc/class/islemag-widget-multiple-ads.php:182
+msgid "Code"
+msgstr "Kod"
+
+#: inc/class/islemag-banner-control.php:44
+#: inc/class/islemag-banner-control.php:59
+#: inc/class/islemag-banner-control.php:75
+#: inc/class/islemag-banner-control.php:90
+#: inc/class/islemag-widget-big-ad.php:184
+#: inc/class/islemag-widget-content-ad.php:163
+#: inc/class/islemag-widget-multiple-ads.php:180
+msgid "Image"
+msgstr "Obraz"
+
+#: inc/class/islemag-banner-control.php:43
+#: inc/class/islemag-banner-control.php:74
+msgid "Banner type"
+msgstr "Typ banera"
+
+#: header.php:57 header.php:136
+msgid "Skip to content"
+msgstr "Przejdź do treści"
+
+#: header.php:56 header.php:135
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/extras.php:121
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz czeka na moderację."
+
+#: inc/extras.php:111
+msgid "(Edit)"
+msgstr "(Edycja)"
+
+#: functions.php:344
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "włącz"
+
+#: functions.php:343
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "włącz"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:342
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "włącz"
+
+#: functions.php:315
+msgid "collapse child menu"
+msgstr "zwiń menu potomne"
+
+#: functions.php:314
+msgid "expand child menu"
+msgstr "rozwiń menu potomne"
+
+#: functions.php:266
+msgid "Footer area 3"
+msgstr "Obszar stopki 3"
+
+#: functions.php:263
+msgid "Footer area 2"
+msgstr "Obszar stopki 2"
+
+#: functions.php:260
+msgid "Footer area 1"
+msgstr "Obszar stopki 1"
+
+#. translators: Number of registered advertisment area
+#: functions.php:242
+msgid "Advertisments area %d"
+msgstr "Obszar reklamy %d"
+
+#: functions.php:233
+msgid "Header advertisment area"
+msgstr "Obszar nagłówka reklamy"
+
+#: functions.php:223
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:182
+msgid "Small Square"
+msgstr "Mały Kwadrat"
+
+#: functions.php:181
+msgid "Vertical Rectangle"
+msgstr "Pionowy Prostokąt"
+
+#: functions.php:180
+msgid "Big Square"
+msgstr "Duży Kwadrat"
+
+#: functions.php:179
+msgid "Half-page ad"
+msgstr "Pół strony reklamy"
+
+#: functions.php:178
+msgid "Medium Rectangle"
+msgstr "Średni Prostokąt"
+
+#: functions.php:177
+msgid "3:1 Rectangle"
+msgstr "3:1 Prostokąt"
+
+#: functions.php:176
+msgid "Leaderboard"
+msgstr "Tablica Liderów"
+
+#: functions.php:175
+msgid "Small Advertisement"
+msgstr "Mała Reklama"
+
+#: functions.php:109
+msgid "Banner"
+msgstr "Banner"
+
+#: functions.php:68 inc/customizer.php:133
+msgid "Footer"
+msgstr "Stopka"
+
+#: functions.php:67
+msgid "Primary"
+msgstr "Pierwszy"
+
+#: functions.php:66
+msgid "Top"
+msgstr "Góra"
+
+#: inc/extras.php:56
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/customizer-repeater/islemag-general-control.php:56 inc/extras.php:55
+msgid "Islemag"
+msgstr "Islemag"
+
+#. translators: 1 - Theme name , 2 - WordPress link
+#: inc/extras.php:54
+msgid "%1$s powered by %2$s"
+msgstr "%1$s powered by %2$s"
+
+#: footer.php:87
+msgid "Widgets Area 3"
+msgstr "Obszar Widgetów 3"
+
+#: footer.php:81
+msgid "Widgets Area 2"
+msgstr "Obszar Widgetów 2"
+
+#: footer.php:75
+msgid "Widgets Area 1"
+msgstr "Obszar Widgetów 1"
+
+#: comments.php:106
+msgid "Your Message"
+msgstr "Twoja Wiadomość"
+
+#: comments.php:105
+msgctxt "noun"
+msgid "Comment"
+msgstr "Komentarz"
+
+#: comments.php:95 comments.php:96
+msgid "Website"
+msgstr "Strona Internetowa"
+
+#: comments.php:88
+msgid "Your E-mail"
+msgstr "Twój E-mail"
+
+#: comments.php:87
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:79 comments.php:80
+msgid "Name"
+msgstr "Nazwa"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Komentarze są wyłączone."
+
+#: comments.php:37 comments.php:58
+msgid "Newer Comments"
+msgstr "Nowsze Komentarze"
+
+#: comments.php:36 comments.php:57
+msgid "Older Comments"
+msgstr "Starsze Komentarze"
+
+#: comments.php:33 comments.php:54
+msgid "Comment navigation"
+msgstr "Nawigacja komentarzy"
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Wygląda na to, nic nie zostało znalezione w tym miejscu. Może spróbuj jednego z poniższych linków lub wyszukiwarki?"
+
+#: 404.php:16
+msgid "Page Not Found"
+msgstr "Strony nie znaleziono"
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/islemag/"
+msgstr "http://themeisle.com/themes/islemag/"

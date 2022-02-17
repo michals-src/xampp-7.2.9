@@ -1,0 +1,562 @@
+# Translation of Themes - WP Less is More in Polish
+# This file is distributed under the same license as the Themes - WP Less is More package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-25 06:30:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - WP Less is More\n"
+
+#. Description of the plugin/theme
+msgid "This Theme is designed for business people, who needs stuff like: Landing Pages, Saless Letters, Squeeze Pages and-or ready to Google AdWords theme ONLY because Less is More."
+msgstr "Jeżeli jesteś przedsiębiorcą/marketingowcem i prowadzisz kampanie sprzedażowe na stronach typu: Landing Pages, Squeeze Pages i Sales Letters oraz kampanie AdWords - potrzebujesz czystego i przejrzystego motywu, gotowego pod urządzenia mobilne (responsywnego) jakim jest WP Less is More - motywu opartego na Bootstrapie dlatego, że Mniej Znaczy Więcej."
+
+#. Theme Name of the plugin/theme
+msgid "WP Less is More"
+msgstr "Mniej zanaczy Więcej"
+
+#: inc/customizer/customizer.php:432
+msgid "Go to the post meta data & comments section to see the effects <hr/>"
+msgstr "Przejdź do sekcji meta opisów i komentarzy, aby zobaczyć efekty <hr/>"
+
+#: inc/customizer/customizer.php:195
+msgid "Change the way you see the post meta data section."
+msgstr "Zmienia sposób w jaki widzisz sekcję meta opisów wpisu."
+
+#: inc/customizer/customizer.php:194
+msgid "Entry Meta"
+msgstr "Meta wpisu"
+
+#: inc/customizer/customizer.php:120
+msgid "Read Me First"
+msgstr "Czytaj to!"
+
+#: inc/customizer/customizer.php:98
+msgid "If you are interested in making any major changes or looking for paid help, please e-mail us on: <a href=\"%s\" target=\"_blank\">this site</a>."
+msgstr "Jeśli potrzebujesz dokonać istotnych zmian lub szukasz płatnej pomocy, napisz do nas    wiadomość korzystając z <a href=\"%s\" target=\"_blank\">tego formularza kontaktowego</a>."
+
+#: inc/customizer/customizer.php:94
+msgid "<a href=\"%s\" target=\"_blank\">Review This Theme</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">Dodaj swoją recenzję</a>"
+
+#: inc/customizer/customizer.php:88
+msgid "<a href=\"%s\" target=\"_blank\">Support Forum</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">Zobacz forum wsparcia</a>"
+
+#: inc/customizer/customizer.php:83
+msgid "Thank you for using the <a href=\"%s\" target=\"_blank\">WP Less is More</a> theme."
+msgstr "Dziękujemy za wybranie motywu <a href=\"%s\" target=\"_blank\">Mniej znaczy Więcej</a> "
+
+#: functions.php:816
+msgid "Last update:"
+msgstr "Ostatnia aktualizacja:"
+
+#: functions.php:816
+msgid "Published:"
+msgstr "Opublikowano:"
+
+#. Template Name of the plugin/theme
+msgid "@ Contact form template @"
+msgstr "@ Formularz kontaktowy @"
+
+#: inc/customizer/customizer.php:431
+msgid "Use icons instead of text"
+msgstr "Ikony zamiast tekstu"
+
+#: inc/customizer/customizer.php:421
+msgid "It removes all actions related to emojis. <hr/>"
+msgstr "Usuwa wszystkie zaczepy akcji związane z emotkami. <hr/>"
+
+#: inc/customizer/customizer.php:420
+msgid "Disable emojicons"
+msgstr "Wyłącz emotikony"
+
+#: inc/customizer/customizer.php:410
+msgid "It removes all others scripts from head and prints them in footer. <hr/>"
+msgstr "Usuwa wszystkie pozostałe skrypty z nagłówka i przenosi je do stopki. <hr/>"
+
+#: inc/customizer/customizer.php:409
+msgid "Move to footer"
+msgstr "Przenieś do stopki"
+
+#: inc/customizer/customizer.php:181
+msgid "Technically speeking, you can speed up your page by moving some scripts to footer or even get rid of them from the queue. <hr/> If something goes wrong, uncheck these settings."
+msgstr "Z technicznego punktu widzenia, możesz przyspieszyć ładowanie się strony poprzez przeniesienie niektórych skryptów do stopki a nawet wycięcie ich z kolejki. <hr/> Jeśli coś pójdzie nie tak, odznacz te ustawienia."
+
+#: inc/customizer/customizer.php:180
+msgid "Speed up - Clean Up!"
+msgstr "Czyścimy i Przyspieszamy"
+
+#: inc/customizer/customizer.php:106
+msgid "More improvements soon! :)"
+msgstr "Więcej udoskonaleń już wkrótce! :)"
+
+#: inc/customizer/customizer.php:102
+msgid "If you want to beautify your theme using the ready-made CSS, HTML and JS components, go to the official <a href=\"%s\" target=_blank\">Bootstrap 3 Documentation</a> site."
+msgstr "Jeżeli chcesz upiększyć swój motyw używając do tego gotowych komponentów CSS, HTML i JS, przejdź do oficjalnej strony Bootstrap 3 i zapoznaj się z <a href=\"%s\" target=_blank\">dokumentacją</a>."
+
+#: inc/customizer/customizer.php:93
+msgid "If you are satisfied with the theme, we would greatly appreciate if you would review it."
+msgstr "Jeśli jesteś zadowolony z motywu, chcielibyśmy abyś podzielił się swoją opinią na ten temat."
+
+#: inc/customizer/customizer.php:92
+msgid "Review"
+msgstr "Recenzja"
+
+#: inc/customizer/customizer.php:87
+msgid "If there is something you don't understand, please use the support forum."
+msgstr "Jeżeli czegoś nie rozumiesz, skorzystaj z oficjalnego forum wsparcia dla tego motywu."
+
+#: inc/customizer/customizer.php:86
+msgid "Support"
+msgstr "Wsparcie"
+
+#: functions.php:1092
+msgid "Send message"
+msgstr "Wyślij wiadomość"
+
+#: functions.php:1084
+msgid "I want to receive a copy of this message"
+msgstr "Chcę otrzymać kopię tego listu"
+
+#: functions.php:1076
+msgid "* Enter the result of the action."
+msgstr "* Podaj wynik działania"
+
+#: functions.php:1073
+msgid "solve the equation"
+msgstr "rozwiąż równanie"
+
+#: functions.php:1060
+msgid "name and surname"
+msgstr "imię i nazwisko"
+
+#: functions.php:1055
+msgid "* Name and surname:"
+msgstr "* Imię i nazwisko"
+
+#: functions.php:1050
+msgid "email"
+msgstr "e-mail"
+
+#: functions.php:1045
+msgid "* Email:"
+msgstr "* E-mail:"
+
+#: functions.php:1040
+msgid "message"
+msgstr "wiadomość"
+
+#: functions.php:1036 functions.php:1046 functions.php:1056
+msgid "(ok)"
+msgstr "(ok)"
+
+#: functions.php:1035
+msgid "* Message:"
+msgstr "* Wiadomość"
+
+#: functions.php:1026
+msgid "Contact form"
+msgstr "Formularz kontaktowy"
+
+#: functions.php:986
+msgid "Correct the form"
+msgstr "Popraw formularz"
+
+#: functions.php:977
+msgid "If you do not see a copy of the message in the <mark>Inbox</mark>, check the <mark>Spam</mark> folder."
+msgstr "Jeżeli nie widzisz swojej kopi wiadomości w folderze <mark>Odebrane</mark>, sprawdź folder <mark>Spam</mark>."
+
+#: functions.php:976
+msgid "<strong>Well done!</strong> You have successfully send this important message to me."
+msgstr "<strong>Doskonale!</strong> Pomyślnie wysłano do mnie tę ważną wiadomość."
+
+#: functions.php:964
+msgid "Copy of the message from %s"
+msgstr "Kopia wiadomości z %s"
+
+#: functions.php:947
+msgid "Message from the %s site "
+msgstr "Wiadomość ze strony %s"
+
+#: functions.php:934
+msgid "You push the button too fast. Now you have to wait at least <span id=\"count\">7</span> seconds."
+msgstr "Zbyt szybko naciskasz przycisk. Teraz musisz poczekać co najmniej <span id=\"count\">7</span> sekund."
+
+#: functions.php:934 functions.php:986 functions.php:1036 functions.php:1046
+#: functions.php:1056 functions.php:1075
+msgid "(Error:)"
+msgstr "(błąd)"
+
+#: functions.php:922
+msgid "Incorrect result!"
+msgstr "Wynik niepoprawny!"
+
+#: functions.php:921
+msgid "the result does not match"
+msgstr "wynik się nie zgadza"
+
+#: functions.php:912
+msgid "Mathematics mandatory"
+msgstr "Matematyka obowiązkowa"
+
+#: functions.php:911
+msgid "solve the mathematical operation"
+msgstr "rozwiąż równanie"
+
+#: functions.php:898
+msgid "Name is required"
+msgstr "Imię jest wymagane"
+
+#: functions.php:897
+msgid "enter your name"
+msgstr "podaj swoje imię"
+
+#: functions.php:888
+msgid "Email not valid"
+msgstr "E-mail niepoprawny"
+
+#: functions.php:887
+msgid "the email address is not valid"
+msgstr "adres email niepoprawny"
+
+#: functions.php:877
+msgid "Email is required"
+msgstr "Email wymagany"
+
+#: functions.php:876
+msgid "enter your email address"
+msgstr "podaj swój adres email"
+
+#: functions.php:865
+msgid "Message is required"
+msgstr "Wiadomość jest wymagana"
+
+#: functions.php:864
+msgid "write a message"
+msgstr "napisz wiadomość"
+
+#: functions.php:854
+msgid "Sorry, but <strong>something went wrong.</strong> Your nonce did not verify. Contact with admin."
+msgstr "Przepraszamy, ale <strong>coś poszło nie tak</strong>. Nie mogliśmy zweryfikować wszystkich pól. Skontaktuj się z administratorem."
+
+#: functions.php:809 functions.php:810
+msgid "Category"
+msgstr "Kategoria"
+
+#: functions.php:806 functions.php:807
+msgid "Last update"
+msgstr "Ostatnia aktualizacja"
+
+#: functions.php:802 functions.php:803
+msgid "Published"
+msgstr "Opublikowano"
+
+#: functions.php:798 functions.php:799
+msgid "Written by"
+msgstr "Napisany przez"
+
+#: functions.php:794
+msgid "Tagged with:"
+msgstr "Otagowano:"
+
+#: functions.php:794
+msgid "hashtags - tags - keywords"
+msgstr "hasztagi - tagi - słowa kluczowe"
+
+#: functions.php:671
+msgid "Posts in category"
+msgstr "Wpisy z kategori"
+
+#: functions.php:666
+msgid "Posts tagged with"
+msgstr "Wpisy otagowane z"
+
+#: functions.php:69
+msgid "Right Bottom Widget Menu"
+msgstr "Prawy dolny menu widżet"
+
+#: functions.php:68
+msgid "Middle Right Bottom Widget Menu"
+msgstr "Środkowy prawy (dolny) menu widżet"
+
+#: functions.php:67
+msgid "Middle Left  Bottom Widget Menu"
+msgstr "Środkowy lewy (dolny) menu widżet"
+
+#: functions.php:66
+msgid "Left Bottom Widget Menu"
+msgstr "Lewy dolny menu widżet"
+
+#: inc/customizer/customizer.php:164
+msgid "&lt;!--more--&gt;"
+msgstr "&lt;!--more--&gt;"
+
+#: inc/customizer/customizer.php:163
+msgid "the_excerpt"
+msgstr "the_excerpt"
+
+#: functions.php:628
+msgid "Author:"
+msgstr "Autor:"
+
+#: functions.php:64
+msgid "Bottom Menu"
+msgstr "Menu Dolne"
+
+#. Template Name of the plugin/theme
+msgid "** Page with title **"
+msgstr "** Szablon strony z tytułem **"
+
+#: inc/customizer/customizer.php:388
+msgid "Available slider range: 1 to 200"
+msgstr "Możliwy zakres suwaka: od 1 do 200"
+
+#: inc/customizer/customizer.php:372
+msgid "Use the slider or enter a number:"
+msgstr "Użyj tego suwaka lub podaj liczbę:"
+
+#: inc/customizer/customizer.php:362
+msgid "Use this field to override the default footer text. If nothing specified, default text will be used instead. You may use these HTML tags and attributes: <code>%s</code>."
+msgstr "Jeżeli nic nie wpiszesz pojawi się domyślny tekst. Wypełnij to pole, aby go nadpisać i użyć własnego. Dozwolone są znaczniki i atrybuty HTML: <code>%s</code>."
+
+#: inc/customizer/customizer.php:361
+msgid "Text in footer:"
+msgstr "Tekst w stopce:"
+
+#: inc/customizer/customizer.php:351
+msgid "Display footer text"
+msgstr "Pokaż stopkę"
+
+#: inc/customizer/customizer.php:160
+msgid ""
+"Use this option to control the excerpt lenght on the home page.\n"
+"The default length is 55 words. This setting works only when a post themplate use <code>%s</code> template tag and the excerpt is created automatically (excerpt meta box on the post editor screen is empty) but no longer than the <code>%s</code> tag (if it's used).\n"
+"See: <a href=\"%s\" target=\"_blank\">Excerpt</a> or <a href=\"%s\" target=\"_blank\">Customizing_the_Read_More</a> in codex."
+msgstr ""
+"Użyj tej opcji, aby móc kontrolować długość zajawki na stronie głównej. Domyślna długość to: 55 słów.  \n"
+"Ustawienie to działa tylko w przypadku użycia funkcji <code>%s</code> i zajawka została utworzona automatycznie (pole Zajawka na stronie edycji wpisu jest puste), lecz nie dłuższa niż do znacznika <code>%s</code> (jeżeli go użyto) .\n"
+"Więcej znajdziesz w dokumentacji: <a href=\"%s\" target=\"_blank\">Excerpt</a> lub <a href=\"%s\" target=\"_blank\">Customizing_the_Read_More</a>."
+
+#: inc/customizer/customizer.php:159
+msgid "Excerpt lenght"
+msgstr "Długość zajawki"
+
+#: inc/customizer/customizer.php:144
+msgid "Use this option to be able to control the footer text. It is enabled by default and looks like this: <strong><i>%s</i></strong>"
+msgstr "Użyj tej opcji, aby móc kontrolować zachowanie się stopki. Domyślnie jest ona włączona i wygląda tak: <strong><i>%s</i></strong>"
+
+#: inc/customizer/customizer.php:143
+msgid "Custom footer"
+msgstr "Edycja stopki"
+
+#: comments.php:174
+msgid "Newer Comments"
+msgstr "Nowsze komentarze"
+
+#: comments.php:173
+msgid "Older Comments"
+msgstr "Starsze komentarze"
+
+#: comments.php:162 functions.php:538
+msgid "Reply"
+msgstr "Odpowiedz"
+
+#. translators: %s: post title
+#: comments.php:132
+msgctxt "comments title"
+msgid "One Reply to %s"
+msgstr "Jedna odpowiedź do %s"
+
+#: comments.php:116
+msgid "Comments are closed for this post."
+msgstr "Możliwość komentowania została wyłączona."
+
+#: comments.php:71
+msgid "Cancel reply"
+msgstr "Anuluj odpowiadanie"
+
+#: comments.php:66
+msgid "Write a Reply or Comment to %s"
+msgstr "Napisz odpowiedź lub dodaj komentadz dla %s"
+
+#: comments.php:65
+msgid "Write a Reply or Comment"
+msgstr "Napisz odpowiedź lub dodaj komentarz"
+
+#. Template Name of the plugin/theme
+msgid "** List Child Pages **"
+msgstr "** Listuje Podstrony **"
+
+#: functions.php:633
+msgid "Archive"
+msgstr "Archiwum"
+
+#: functions.php:623
+msgid "Attachment"
+msgstr "Załącznik"
+
+#: functions.php:816
+msgid "Written by:&nbsp;"
+msgstr "Autor:&nbsp;"
+
+#: functions.php:815
+msgid "Category:&nbsp;"
+msgstr "Kategoria:&nbsp;"
+
+#: functions.php:814
+msgid "Tagged with:&nbsp;"
+msgstr "Otagowano:&nbsp;"
+
+#: single.php:41
+msgid "Next post"
+msgstr "Następny wpis"
+
+#: single.php:40
+msgid "Previous post"
+msgstr "Poprzedni wpis"
+
+#: index.php:19 page.php:23 page_with-title.php:38 single.php:25
+msgctxt "single post & page"
+msgid "part: %"
+msgstr "części: %"
+
+#: index.php:12 page.php:16 page_with-title.php:31 single.php:18
+msgid "Go to:"
+msgstr "Przejdź do:"
+
+#: home.php:18
+msgid "Read more..."
+msgstr "Czytaj dalej..."
+
+#: home.php:14 home.php:18
+msgid "Permanent Link to:"
+msgstr "Bezpośredni odnośnik do:"
+
+#: home.php:14 home.php:18
+msgid "bookmark"
+msgstr "zakładka"
+
+#: header.php:33
+msgid "Toggle navigation"
+msgstr "Rozwiń nawigację"
+
+#: functions.php:299
+msgid "Right Bottom Widget Area"
+msgstr "Dolny Prawy Panel"
+
+#: functions.php:292 functions.php:301
+msgid "Appears on the right-bottom side of the page."
+msgstr "Widgety pojawią się w dolnej, prawej części witryny."
+
+#: functions.php:290
+msgid "Middle Right Bottom Widget Area"
+msgstr "Środkowy Dolny Prawy Panel"
+
+#: functions.php:283
+msgid "Appears on the middle-bottom side of the page."
+msgstr "Widgety pojawią się w dolnej, środkowej części witryny."
+
+#: functions.php:281
+msgid "Middle Left  Bottom Widget Area"
+msgstr "Środkowy Dolny Lewy Panel"
+
+#: functions.php:274
+msgid "Appears on the left-bottom side of the page."
+msgstr "Widgety pojawią się w dolnej, lewej części witryny."
+
+#: functions.php:272
+msgid "Left Bottom Widget Area"
+msgstr "Dolny Lewy Panel"
+
+#: functions.php:529
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">piszę:</span>"
+
+#: functions.php:523
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na zatwierdzenie."
+
+#: functions.php:63
+msgid "Top Menu"
+msgstr "Menu Górne"
+
+#: inc/customizer/customizer.php:50
+msgid "Copyright &copy; by %s"
+msgstr "Własność autorska: &copy; %s"
+
+#. translators: %s 1: number of comments, %s 2: post title
+#: comments.php:136
+msgctxt "comments title"
+msgid "%s Reply to %s"
+msgid_plural "%s Replies to %s"
+msgstr[0] "%s odpowiedź do: %s"
+msgstr[1] "%s odpowiedzi do: %s"
+msgstr[2] "%s odpowiedzi do: %s"
+
+#: comments.php:100
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "Możesz używać tych znaczników <abbr title=\"HyperText Markup Language\">HTML</abbr>: %s"
+
+#: comments.php:95
+msgid "Your email address will not be published."
+msgstr "Twój adres e-mail nie będzie opublikowany."
+
+#: comments.php:88
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Jesteś zalogowany jako: <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Wyloguj się z tego profilu\">Wylogować?</a>"
+
+#: comments.php:80
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Musisz być <a href=\"%s\">zalogowany</a> aby zamieszczać komentarze."
+
+#: comments.php:64
+msgid "Submit Response"
+msgstr "Dodaj odpowiedź"
+
+#: comments.php:53
+msgid "Website:"
+msgstr "Witryna internetowa:"
+
+#: comments.php:45
+msgid "Email:"
+msgstr "E-mail:"
+
+#: comments.php:37
+msgid "Name:"
+msgstr "Imię:"
+
+#: comments.php:29
+msgid "Required fields are marked %s"
+msgstr "Pola oznaczone gwiazdką %s są wymagane"
+
+#: category.php:15 tag.php:15
+msgctxt "category & tag page"
+msgid "part: %"
+msgstr "część: %"
+
+#: inc/bootstrap/wp_less_is_more_bootstrap_navwalker.php:199
+msgid "Add a menu"
+msgstr "Dodaj menu"
+
+#: attachment.php:14 category.php:29 home.php:31 index.php:33 page.php:39
+#: page_contact-form.php:46 page_list-child-pages.php:49 page_with-title.php:54
+#: single.php:54 tag.php:29
+msgid "Sorry, no posts matched your criteria."
+msgstr "Niestety, brak załączników spełniających podane kryteria."
+
+#. Theme URI of the plugin/theme
+msgid "https://wpsolucje.pl/motywy/wp-less-is-more/"
+msgstr "https://wpsolucje.pl/motywy/wp-less-is-more/"
+
+#. Author URI of the plugin/theme
+msgid "https://wpsolucje.pl/"
+msgstr "https://wpsolucje.pl/"
+
+#. Author of the plugin/theme
+msgid "WP Solucje"
+msgstr "WP Solucje"
